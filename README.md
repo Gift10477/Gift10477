@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Gift! 👋 🚀
 
-<!--
-**Gift10477/Gift10477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passion-driven Undergraduate Student specializing in **Data Science, Machine Learning, and Modern Web Engineering**. I bridge the gap between building highly responsive, visually rich user interfaces and training intelligent, data-driven systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Tech Stack & Tooling
+
+#### 💻 Frontend & Creative Web Engineering
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+#### 📊 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🚀 Deployment & Environments
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+---
+
+### 🏗️ Highlighted Projects & Roles
+
+*   **SettleIn**  
+    A sleek, minimalistic React & Tailwind CSS web platform designed to solve student housing challenges in Nairobi. Built focused on intuitive user flows and responsive architecture.
+*   **Data Community DataSprint | ML & Preprocessing Lead**  
+    Spearheaded feature engineering and data preprocessing pipelines for a complex multi-class classification challenge utilizing the *Kenya FinAccess Household Survey* dataset.
+*   **TeachMe Platform**  
+    Architected the core system blueprints and data pipelines for a student-led academic tutoring system.
+
+---
+
+### 📈 GitHub Stats & Momentum
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Trip's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Trip's Streak Stats" height="180"/>
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+Feel free to check out my live projects, drop an issue, or reach out for collaborations:
+
+*   **Portfolio / Website:** [triptechsolutions.com](https://YOUR_PORTFOLIO_LINK.com)
+*   **LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
+*   **Email:** [your.email@domain.com](mailto:your.email@domain.com)
+
+---
+
+> *"Clean code, optimized matrices, and continuous learning."* 🧑‍💻
