@@ -46,7 +46,7 @@ I am a passion-driven Undergraduate Student specializing in **Data Science, Mach
 
 Feel free to check out my live projects, drop an issue, or reach out for collaborations:
 
-*   **Portfolio / Website:** [triptechsolutions.com](https://YOUR_PORTFOLIO_LINK.com)
+*   **Portfolio / Website:** [portfolio.com]([https://YOUR_PORTFOLIO_LINK.com](https://gifts-portfolio-site.webflow.io)
 *   **LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
 *   **Email:** [your.email@domain.com](mailto:your.email@domain.com)
 
