@@ -46,10 +46,9 @@ I am a passion-driven Undergraduate Student specializing in **Data Science, Mach
 
 Feel free to check out my live projects, drop an issue, or reach out for collaborations:
 
-*   **Portfolio / Website:** [portfolio.com]([https://YOUR_PORTFOLIO_LINK.com](https://gifts-portfolio-site.webflow.io)
-*   **LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
-*   **Email:** [your.email@domain.com](mailto:your.email@domain.com)
-
+*   **Portfolio / Website:** [portfolio.com]([https://gift's-portfolio.com](https://gifts-portfolio-site.webflow.io)
+*   **LinkedIn:** [linkedin.com/in/YOUR_USERNAME]([https://linkedin.com/in/Gift Githaka](https://www.linkedin.com/in/gift-gicheru-2b285b373/))
+*   **Email:** [giftgithaka4@gmail.com](mailto:giftgithaka4@gmail.com)
 ---
 
 > *"Clean code, optimized matrices, and continuous learning."* 🧑‍💻
