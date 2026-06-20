@@ -33,13 +33,15 @@ I am a passion-driven Undergraduate Student specializing in **Data Science, Mach
 
 ---
 
-### 📈 GitHub Stats & Momentum
+### 📈 Tech Metrics & Core Focus
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gift10477&show_icons=true&theme=tokyonight&count_private=true" alt="Gift's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Trip's Streak Stats" height="180"/>
+<p align="center">
+  <!-- Top Languages Card - Showcases your actual engineering stack -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Trip's Top Languages" height="180" />
+  
+  <!-- Optimized Stats Card - Grade hidden to keep focus on engineering focus -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" alt="Trip's GitHub Stats" height="180"/>
 </p>
-
 ---
 
 ### 🌐 Let's Connect!
