@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:7C3AED,50:A78BFA,80:C084FC,100:0D1117&height=220&section=header&text=Gift%20Githaka%20Gicheru&fontSize=62&fontColor=F8FAFC&animation=twinkling&desc=ML%20ENGINEER%20%2F%2F%20WEB%20ARTISAN%20%2F%2F%20DIGITAL%20EXPERIENCE%20ARCHITECT&descSize=20&descColor=A78BFA&fontAlignY=38&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+from+Nairobi+%F0%9F%87%B0%F0%9F%87%AA;3D+Interfaces+that+make+browsers+feel+alive+%F0%9F%8C%90;Data+that+tells+stories.+Models+that+predict+them.;%F0%9F%9A%80+Strathmore+Informatics+%7C+Class+of+2027)](https://github.com/Gift10477)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+from+Nairobi+%F0%9F%87%B0%F0%9F%87%AA;3D+Interfaces+that+make+browsers+feel+alive+%F0%9F%8C%90;Data+that+tells+stories.+Models+that+predict+them.;%F0%9F%9A%80+Strathmore+Informatics+%7C+Class+of+2029)](https://github.com/Gift10477)
 
 [![GitHub followers](https://img.shields.io/github/followers/Gift10477?label=Followers&style=for-the-badge&color=A78BFA&labelColor=0D1117)](https://github.com/Gift10477?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Gift10477&label=Profile%20Views&color=7C3AED&style=for-the-badge&labelColor=0D1117)](https://github.com/Gift10477)
