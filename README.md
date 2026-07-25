@@ -113,8 +113,9 @@ class Gift:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gift10477&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=F8FAFC"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gift10477&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=F8FAFC"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gift10477&theme=dracula"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gift10477&theme=dracula"/>
+
 
 </div>
 
